@@ -1,1 +1,17 @@
-vendor
+# Composer vendor
+/vendor/
+
+# Env config
+.env
+
+# Logs
+*.log
+
+# Cache / temp files
+.cache/
+.phpunit.cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
